@@ -1,5 +1,5 @@
 {
-  "name": "getting started bp",
+  "name": "getting_started_with_bp",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
