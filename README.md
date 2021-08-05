@@ -14,6 +14,8 @@ A list of resources that have helped during my learning:
   * [Fireship - Svelte in 100 seconds](https://youtu.be/rv3Yq-B8qp4)
   * [Auth0 YouTube Video - Brittney Postma - Get Started with Svelte and SvelteKit](https://youtu.be/fOD_3iSiwTQ)
   * [Fireship - Svelte 3 Reaction and Quickstart Video](https://youtu.be/043h4ugAj4c)
+  * [Traversy Media - Svelte Crash Course](https://youtu.be/uK2RnIzrQ0M)
 
 ## Contents
 * intro_with_bp is the codebase that I completed while following along with the Auth0/Brittney Postma video. 
+* _svelte_scoreboard_ - code from working along [Traversy Media's Svelte Crash Course](https://youtu.be/uK2RnIzrQ0M)
